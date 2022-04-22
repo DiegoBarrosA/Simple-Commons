@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="color_primary">#FFF57C00</color>
-    <color name="color_primary_dark">#FFD76D00</color>
+    <color name="color_primary">#1976D200</color>
+    <color name="color_primary_dark">#1976D200</color>
     <color name="color_accent">@color/color_primary</color>
 
     <color name="pressed_item_foreground">#08000000</color>
@@ -15,10 +15,10 @@
     <color name="light_grey_stroke">#40FFFFFF</color>
 
     <!-- Color Customization -->
-    <color name="theme_light_text_color">@color/md_grey_600</color>
-    <color name="theme_light_background_color">@color/md_grey_white</color>
-    <color name="theme_dark_text_color">@color/md_grey_200</color>
-    <color name="theme_dark_background_color">@color/md_grey_800</color>
+    <color name="theme_light_text_color">@color/md_black_100</color>
+    <color name="theme_light_background_color">@color/md_white_100</color>
+    <color name="theme_dark_text_color">@color/md_white_100</color>
+    <color name="theme_dark_background_color">@color/md_black_100</color>
     <color name="default_text_color">@color/theme_dark_text_color</color>
     <color name="default_background_color">@color/theme_dark_background_color</color>
     <color name="theme_solarized_background_color">@color/md_indigo_900_dark</color>
@@ -73,6 +73,9 @@
     <color name="md_amber_700_dark">#D78700</color>
     <color name="md_amber_800_dark">#D77800</color>
     <color name="md_amber_900_dark">#D75D00</color>
+    
+    <color name="md_black_100">#000000</color>
+    <color name="md_white_100">#FFFFFF</color>
 
     <color name="md_blue_100">#BBDEFB</color>
     <color name="md_blue_200">#90CAF9</color>
@@ -369,7 +372,7 @@
     <color name="md_purple_300_dark">#AC4ABD</color>
     <color name="md_purple_400_dark">#913AA0</color>
     <color name="md_purple_500_dark">#7F1F8F</color>
-    <color name="md_purple_600_dark">#711C88</color>
+    <color name="md_purple_600_dark">#711C8F</color>
     <color name="md_purple_700_dark">#611880</color>
     <color name="md_purple_800_dark">#521477</color>
     <color name="md_purple_900_dark">#370E68</color>
